@@ -1,6 +1,6 @@
 # Gump0's Everforest Medium Config for Alacritty
 # Created: 2023-04-21 
-# Last Edit: 2023-04-22
+# Last Edit: 2023-04-23
 #import /.config/alacritty/alacritty.yml
 window:
   padding:
@@ -15,7 +15,7 @@ window:
     multiplier: 3
 
   # remember that compiling software such as picom is needed for this to work
-  background_opcaity: 1
+  background_opcaity: 0.8
 
 font:
  normal:
@@ -42,7 +42,7 @@ colors:
     red: "#e67e80"
     green: "#a7c080"
     yellow: "#dbbc7f"
-    blue: "#7fbbb3"
+    blue: "#83C092"
     magenta: "#d699b6"
     cyan: "#83c092"
     white: "#d3c6aa"
@@ -51,7 +51,7 @@ colors:
     red: "#e67e80"
     green: "#a7c080"
     yellow: "#dbbc7f"
-    blue: "#7fbbb3"
+    blue: "#83C092"
     magenta: "#d699b6"
     cyan: "#83c092"
     white: "#d3c6aa"
